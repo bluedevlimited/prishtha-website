@@ -1,0 +1,166 @@
+
+<!-- courses Section -->
+<section class="w3l-courses py-5">
+  <div class="container py-lg-3">
+    <div class="header-section mb-5 text-center mx-auto">
+      <h3>???????? ??? ????????????? ????? </h3>
+      
+    </div>
+    <div class="owl-courses owl-carousel owl-theme">
+      <div class="item" >
+        <div class="course-grid" >
+          <div  class="course-img" > 
+            <a href="courses-single.html " ><img src="assets/images/s5.jpg"  alt=" "  >
+              <h4>??: ?????? ???? ????????</h4>
+                <span class="subject blue">?????? </span>
+            </a>
+          </div>
+          
+        </div>
+      </div>
+      <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/moutushi.jpeg" alt=" " class="img-fluid">
+            <h4>?????? ???????</h4>
+              <span class="subject blue">?????? ??-??????</span>
+            </a>
+          </div>
+          
+        </div>
+
+      </div>
+      <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " height = "300" width="350" class="img-fluid">
+              <h4>?????? ??? ?????</h4>
+                <span class="subject blue">?????? ??-??????</span>
+            </a>
+          </div>
+          
+        </div>
+
+      </div>
+	  
+      <div class="item" >
+        <div class="course-grid" > 
+          <div class="course-img" >
+            <a href="courses-single.html"><img src="assets/images/team3.jpeg" alt=" " height = "300" width="350" class="img-fluid">
+            <h4>????? ????? ?????</h4>
+                <span class="subject blue">?????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>??????? ????? ????</h4>
+                <span class="subject blue">????? ?????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>???????? ??????</h4>
+                <span class="subject blue">????? ?????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/team2.jpeg" alt=" " class="img-fluid">
+            <h4>?? ?? ?????</h4>
+                <span class="subject blue">???????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>??????? ?????</h4>
+                <span class="subject blue">????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>?????? ???????? ?????</h4>
+                <span class="subject blue">???? ?????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>????? ?? ?????</h4>
+                <span class="subject blue">??????????? ????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>???? ??????</h4>
+                <span class="subject blue">???? ? ??????? ????????? ????? ???????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		 <div class="item">
+        <div class="course-grid">
+          <div class="course-img">
+            <a href="courses-single.html"><img src="assets/images/s5.jpg" alt=" " class="img-fluid">
+            <h4>?????? ??????? ?????</h4>
+                <span class="subject blue">??????????</span>
+              </div>
+            </a>
+          </div>
+         
+        </div>
+		
+		
+		
+		
+
+      </div>
+     
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- //courses Section -->

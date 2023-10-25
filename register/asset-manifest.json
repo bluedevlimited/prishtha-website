@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/register/static/css/main.41786c6b.css",
+    "main.js": "/register/static/js/main.faba1795.js",
+    "static/media/football.mp4": "/register/static/media/football.0b540134113e50b96ac2.mp4",
+    "static/media/bkash.png": "/register/static/media/bkash.a01fa064aa7ca5c5b7de.png",
+    "index.html": "/register/index.html",
+    "main.41786c6b.css.map": "/register/static/css/main.41786c6b.css.map",
+    "main.faba1795.js.map": "/register/static/js/main.faba1795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41786c6b.css",
+    "static/js/main.faba1795.js"
+  ]
+}
